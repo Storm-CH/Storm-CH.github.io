@@ -1,13 +1,10 @@
 body {
     background-color: midnightblue;
 }
-head {
-    title { 
-        border: 3px solid black;
-        padding: 35px;
-            color: lightgrey;
+h1 {
+    border: 3px solid black;
+    padding: 35px;
+    color: lightgrey;
     font-family: Verdana;
-    }
-
 
 }
