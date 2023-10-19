@@ -1,7 +1,22 @@
 body {
-    background-color: midnightblue;
+    background-color: lightgreen;
     border: 3px solid black;
     padding: 35px;
-    color: lightgrey;
-    font-family: Verdana;
+    color: rgb(0, 0, 0);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h1 {
+    color: black;
+
+    text-align: center;
+}
+.assign {
+    display: flex;
+    padding: 10px;
+    margin: 10px;
+    background: palegoldenrod;
+}
+.assign img {
+    width: 200px;
+    padding: 10px;
 }
