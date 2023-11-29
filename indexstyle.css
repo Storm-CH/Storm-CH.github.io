@@ -18,9 +18,11 @@ a:hover {
     color: pink; 
 }
 .assign {
-    display: flex;
+    display: block;
     padding: 10px;
     margin: 10px;
+    width: 20%;
+    box-shadow: 8px 8px darkgreen;
     background: palegoldenrod;
     border-radius: 20px;
 }
