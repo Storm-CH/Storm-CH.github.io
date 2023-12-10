@@ -21,6 +21,7 @@ a:hover {
     color: pink; 
 }
 .assign {
+    display: block;
     padding: 10px;
     margin: 10px;
     width: 20%;
